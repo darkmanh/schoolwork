@@ -1,0 +1,10 @@
+﻿  COP2535.001_Project4_Hugo_Ochoa.cpp
+C:\Users\sochoa\source\repos\Hugo_Ochoa_COP2535_Project4\COP2535.001_Project4_Hugo_Ochoa.cpp(115,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sochoa\source\repos\Hugo_Ochoa_COP2535_Project4\COP2535.001_Project4_Hugo_Ochoa.cpp(159,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sochoa\source\repos\Hugo_Ochoa_COP2535_Project4\COP2535.001_Project4_Hugo_Ochoa.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sochoa\source\repos\Hugo_Ochoa_COP2535_Project4\COP2535.001_Project4_Hugo_Ochoa.cpp(164): message : see reference to function template instantiation 'int search<std::string>(const std::vector<std::string,std::allocator<std::string>> &,T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  Hugo_Ochoa_COP2535_Project4.vcxproj -> C:\Users\sochoa\source\repos\Hugo_Ochoa_COP2535_Project4\Debug\Hugo_Ochoa_COP2535_Project4.exe

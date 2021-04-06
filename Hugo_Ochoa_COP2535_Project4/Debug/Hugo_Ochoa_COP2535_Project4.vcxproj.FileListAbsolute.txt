@@ -1,0 +1,4 @@
+C:\Users\Hugo\source\repos\Hugo_Ochoa_COP2535_Project4\Debug\Hugo_Ochoa_COP2535_Project4.exe
+C:\Users\Hugo\source\repos\Hugo_Ochoa_COP2535_Project4\Debug\Hugo_Ochoa_COP2535_Project4.pdb
+C:\Users\sochoa\source\repos\Hugo_Ochoa_COP2535_Project4\Debug\Hugo_Ochoa_COP2535_Project4.exe
+C:\Users\sochoa\source\repos\Hugo_Ochoa_COP2535_Project4\Debug\Hugo_Ochoa_COP2535_Project4.pdb
